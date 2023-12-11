@@ -1,7 +1,3 @@
-- Name: Truc Le
-- Student ID: 101179999
-- Youtube Link: https://youtu.be/QN3LtxafKkA
-
 * Student Database Management Application
 
 ** Description
